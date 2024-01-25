@@ -1,0 +1,5 @@
+step to run :
+
+STEP1: cd ProjectName.
+STEP2: npm install.
+STEP3: npm run start or dev try both ....
